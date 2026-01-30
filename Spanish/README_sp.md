@@ -2,20 +2,20 @@
 
 | # Día |                                           Tema                                           |
 | ------ | :--------------------------------------------------------------------------------------: |
-|   01   |                                   [Introducción](./readme_sp.md)                                    |
-|   02   | [Variables y funciones integradas](./02_variables_builtin_functions_sp.md) |
-|   03   |                       [Operadores](./03_operators_sp.md)                       |
-|   04   |                         [Cadenas](./04_strings_sp.md)                         |
-|   05   |                            [Listas](./05_lists_sp.md)                            |
-|   06   |                           [Tuplas](./06_tuples_sp.md)                           |
-|   07   |                             [Conjuntos](./07_sets_sp.md)                             |
-|   08   |                     [Diccionarios](./08_dictionaries_sp.md)                     |
-|   09   |                     [Condicionales](./09_conditionals_sp.md)                     |
-|   10   |                            [Bucles](./10_loops_sp.md)                            |
-|   11   |                        [Funciones](./11_functions_sp.md)                        |
-|   12   |                          [Módulos](./12_modules_sp.md)                          |
-|   13   |             [Comprensión de listas](./13_list_comprehension_sp.md)             |
-|   14   |         [Funciones de orden superior](./14_higher_order_functions_sp.md)         |
+|   01   | [Introducción](./readme_sp.md)|
+|   02   | [Variables y funciones integradas](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
+|   03   | [Operadores](./03_Day_Operators/03_operators.md)|
+|   04   | [Cadenas](./04_Day_Strings/04_strings.md)|
+|   05   | [Listas](./05_Day_Lists/05_lists.md)|
+|   06   | [Tuplas](./06_Day_Tuples/06_tuples.md)|
+|   07   | [Conjuntos](./07_Day_Sets/07_sets.md)|
+|   08   | [Diccionarios](./08_Day_Dictionaries/08_dictionaries.md)|
+|   09   | [Condicionales](./09_Day_Conditionals/09_conditionals.md)|
+|   10   | [Bucles](./10_Day_Loops/10_loops.md)|
+|   11   | [Funciones](./11_Day_Functions/11_functions.md)|
+|   12   | [Módulos](./12_Day_Modules/12_modules.md)|
+|   13   | [Comprensión de listas](./13_Day_List_comprehension/13_list_comprehension.md)|
+|   14   | [Funciones de orden superior](./14_Day_Higher_order_functions/14_higher_order_functions.md)|
 |   15   |             [Errores de tipo](./15_python_type_errors_sp.md)             |
 |   16   |            [Fechas y horas en Python](./16_python_datetime_sp.md)            |
 |   17   |             [Manejo de excepciones](./17_exception_handling_sp.md)             |
