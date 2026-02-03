@@ -56,7 +56,7 @@
 
 </div>
 
-[Ir al Día 2 >>](./02_Day_variables_builtin_functions/02_variables_builtin_functions.md)
+[Ir al Día 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 

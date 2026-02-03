@@ -15,7 +15,7 @@
 
 [<< Día 19](../19_Day_File_handling/19_file_handling.md) | [Día 21 >>](../21_Day_Classes_and_objects/21_classes_and_objects.md)
 
-![30DaysOfPython](../../../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 Día 20](#-día-20)
   - [Python PIP - Gestor de paquetes de Python](#python-pip---gestor-de-paquetes-de-python)

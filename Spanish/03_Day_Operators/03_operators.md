@@ -318,4 +318,4 @@ Has vivido 3153600000 segundos.
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 2](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Día 4 >>](../04_Day_strings/04_strings.md)
+[<< Día 2](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Día 4 >>](../04_Day_Strings/04_strings.md)
