@@ -15,7 +15,7 @@
 
 [<< Día 23](../23_Day_Virtual_environment/23_virtual_environment.md) | [Día 25 >>](../25_Day_Pandas/25_pandas.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 Día 24](#-día-24)
   - [Análisis estadístico con Python](#análisis-estadístico-con-python)
