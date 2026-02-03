@@ -209,7 +209,7 @@ Así se escribe un comentario en Python:
 
 Antes de continuar, practica más: cierra el Shell con _exit()_ y vuelve a abrirlo; escribe texto en el Shell:
 
-![Escribir cadena en el shell de Python](./images/writing_string_on_shell.png)
+![Escribir cadena en el shell de Python](../images/writing_string_on_shell.png)
 
 ### Instalar Visual Studio Code
 
