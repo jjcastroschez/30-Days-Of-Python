@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Días de Python: Día 16 - Fechas y horas en Python </h1>
+  <h1> 30 días de Python: Día 16 - Fechas y horas en Python </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -208,4 +208,4 @@ t3 = 86 days, 22:56:50
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 15](../15_Day_Python_type_errors/15_python_type_errors.md) | [Día 17 >>](./17_Day_Exception_handling/17_exception_handling.md)
+[<< Día 15](../15_Day_Python_type_errors/15_python_type_errors.md) | [Día 17 >>](../17_Day_Exception_handling/17_exception_handling.md)

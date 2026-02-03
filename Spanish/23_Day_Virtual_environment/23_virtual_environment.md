@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Días de Python: Día 23 - Entornos virtuales </h1>
+  <h1> 30 días de Python: Día 23 - Entornos virtuales </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -110,4 +110,4 @@ Los módulos necesarios para trabajar con Flask ya están instalados en el entor
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 22](../22_Day_Web_scraping/22_web_scraping.md) | [Día 24 >>](../24_Statistics/24_statistics.md)
+[<< Día 22](../22_Day_Web_scraping/22_web_scraping.md) | [Día 24 >>](../24_Day_Statistics/24_statistics.md)

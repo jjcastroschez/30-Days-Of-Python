@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Días de Python: Día 15 - Errores de tipo </h1>
+  <h1> 30 días de Python: Día 15 - Errores de tipo </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -358,4 +358,4 @@ Hemos revisado varios tipos de errores en Python; para más información, consul
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 14](../14_Day_Higher_order_functions/14_higher_order_functions.md) | [Día 16 >>](../16_Day_Python_datetime/16_python_datetime.md)
+[<< Día 14](../14_Day_Higher_order_functions/14_higher_order_functions.md) | [Día 16 >>](../16_Day_Python_date_time/16_python_datetime.md)

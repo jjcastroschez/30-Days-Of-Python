@@ -455,4 +455,4 @@ print(sum_all_numbers(100)) # 5050
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 10](../10_Day_loops/10_loops.md) | [Día 12 >>](../12_Day_modules/12_modules.md)
+[<< Día 10](../10_Day_Loops/10_loops.md) | [Día 12 >>](../12_Day_Modules/12_modules.md)

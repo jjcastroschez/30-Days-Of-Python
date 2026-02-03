@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Días de Python: Día 20 - PIP </h1>
+  <h1> 30 días de Python: Día 20 - PIP </h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -322,4 +322,4 @@ print(greet.greet_person('Juan', 'Pérez'))
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 19](../19_Day_File_handling/19_file_handling.md) | [Día 21 >>](../21_Day_classes_and_objects/21_classes_and_objects.md)
+[<< Día 19](../19_Day_File_handling/19_file_handling.md) | [Día 21 >>](../21_Day_Classes_and_objects/21_classes_and_objects.md)

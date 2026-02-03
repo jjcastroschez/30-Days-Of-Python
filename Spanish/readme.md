@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <h1> 30 Días de Python: Día 1 - Introducción</h1>
+  <h1> 30 días de Python: Día 1 - Introducción</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
