@@ -14,7 +14,7 @@
 
 </div>
 
-[<< Día 3](../03_Day_operators/03_operators.md) | [Día 5 >>](../05_Day_lists/05_lists.md)
+[<< Día 3](../03_Day_Operators/03_operators.md) | [Día 5 >>](../05_Day_Lists/05_lists.md)
 
 ![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 

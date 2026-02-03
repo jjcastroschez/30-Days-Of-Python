@@ -14,7 +14,7 @@
 
 </div>
 
-[<< Día 4](../04_Day_Strings/04_strings.md) | [Día 6 >>](../06_Day_tuples/06_tuples.md)
+[<< Día 4](../04_Day_Strings/04_strings.md) | [Día 6 >>](../06_Day_Tuples/06_tuples.md)
 
 ![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
