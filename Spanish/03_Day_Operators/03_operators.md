@@ -13,9 +13,9 @@
 </sub>
 </div>
 
-[<< Día 2](./02_variables_builtin_functions_sp.md) | [Día 4 >>](./04_strings_sp.md)
+[<< Día 2](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Día 4 >>](../04_Day_Strings/04_strings.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 _Lectura aproximada: 12 min_
 - [📘 Día 3](#-día-3)
@@ -48,7 +48,7 @@ Python soporta varios tipos de operadores. En esta sección nos centraremos en a
 
 Los operadores de asignación se usan para asignar valores a las variables. Tomemos = como ejemplo: en matemáticas el signo igual indica que dos valores son iguales, pero en Python indica que estamos almacenando un valor en una variable; esto se llama asignación. La tabla siguiente muestra los diferentes operadores de asignación en Python (tomada de [w3schools](https://www.w3schools.com/python/python_operators.asp)).
 
-![Assignment Operators](../images/assignment_operators.png)
+![Assignment Operators](../../images/assignment_operators.png)
 
 ### Operadores aritméticos:
 
@@ -60,7 +60,7 @@ Los operadores de asignación se usan para asignar valores a las variables. Tome
 - División entera (//): a // b
 - Exponenciación (**): a ** b
 
-![Arithmetic Operators](../images/arithmetic_operators.png)
+![Arithmetic Operators](../../images/arithmetic_operators.png)
 
 **Ejemplo: enteros**
 
@@ -183,7 +183,7 @@ density = mass / volume # 1000 Kg/m³
 
 En programación usamos operadores de comparación para comparar dos valores. Comprobamos si un valor es mayor, menor o igual a otro. La tabla siguiente muestra los operadores de comparación en Python (tomada de [w3schools](https://www.w3schools.com/python/python_operators.asp)).
 
-![Comparison Operators](../images/comparison_operators.png)
+![Comparison Operators](../../images/comparison_operators.png)
 **Ejemplo: operadores de comparación**
 
 ```py
@@ -231,7 +231,7 @@ print('4 is 2 ** 2:', 4 is 2 ** 2)   # True
 
 A diferencia de otros lenguajes de programación, Python usa las palabras clave _and_, _or_ y _not_ como operadores lógicos. Los operadores lógicos se utilizan para combinar expresiones condicionales:
 
-![Logical Operators](../images/logical_operators.png)
+![Logical Operators](../../images/logical_operators.png)
 
 ```py
 print(3 > 2 and 4 > 3) # True - porque ambas expresiones son True
@@ -318,4 +318,4 @@ Has vivido 3153600000 segundos.
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 2](./02_variables_builtin_functions_sp.md) | [Día 4 >>](./04_strings_sp.md)
+[<< Día 2](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Día 4 >>](../04_Day_strings/04_strings.md)

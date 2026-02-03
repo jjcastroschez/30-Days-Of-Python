@@ -1,6 +1,23 @@
-# 30 Días de Python: Día 22 - Web scraping
+<div align="center">
+  <h1> 30 Días de Python: Día 22 - Web scraping </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 22](#-día-22)
+<sub>Autor:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small> Segunda edición: julio de 2021</small>
+</sub>
+</div>
+
+[<< Día 21](../21_Day_Classes_and_objects/21_classes_and_objects.md) | [Día 23 >>](../23_Day_Virtual_environment/23_virtual_environment.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 22](#-día-22)
   - [Web scraping con Python](#web-scraping-con-python)
     - [¿Qué es el web scraping?](#qué-es-el-web-scraping)
   - [💻 Ejercicios: Día 22](#-ejercicios-día-22)
@@ -86,4 +103,4 @@ Consulta la documentación de BeautifulSoup para más detalles: https://www.crum
 
 🎉 ¡Felicidades!🎉
 
-[<< Día 21](./21_classes_and_objects_sp.md) | [Día 23 >>](./23_virtual_environment_sp.md)
+[<< Día 21](../21_Day_Classes_and_objects/21_classes_and_objects.md) | [Día 23 >>](../23_Day_Virtual_environment/23_virtual_environment.md)

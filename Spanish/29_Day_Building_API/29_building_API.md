@@ -1,6 +1,24 @@
-# Reto de 30 días de Python: Día 29 - Construyendo una API
+<div align="center">
+  <h1> 30 Días de Python: Día 29 - Construyendo una API </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 29](#día-29)
+<sub>Autor:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small>Segunda edición: julio de 2021</small>
+</sub>
+
+</div>
+
+[<< Día 28](../28_Day_API/28_API.md) | [Día 29 >>](../30_Day_Conclusions/30_conclusions.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 29](#día-29)
 - [Construyendo una API](#construyendo-una-api)
   - [Estructura de la API](#estructura-de-la-api)
   - [Obtener datos con GET](#obtener-datos-con-get)
@@ -27,7 +45,7 @@ Ejemplos de APIs:
 
 [Postman](https://www.getpostman.com/) es una herramienta muy popular en el desarrollo de APIs. Si quieres seguir esta sección, descarga [Postman](https://www.getpostman.com/). Una alternativa a Postman es [Insomnia](https://insomnia.rest/download).
 
-![Postman](../images/postman.png)
+![Postman](../../images/postman.png)
 
 ### Estructura de la API
 
@@ -103,11 +121,11 @@ if __name__ == '__main__':
 
 Si solicitas http://localhost:5000/api/v1.0/students en el navegador obtendrás:
 
-![GET en navegador](../images/get_on_browser.png)
+![GET en navegador](../../images/get_on_browser.png)
 
 Si solicitas la misma URL en Postman obtendrás:
 
-![GET en Postman](../images/get_on_postman.png)
+![GET en Postman](../../images/get_on_postman.png)
 
 En lugar de datos ficticios, conectaremos la aplicación Flask a MongoDB y obtendremos datos desde la base.
 
@@ -465,4 +483,4 @@ if __name__ == '__main__':
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 28](./28_API_sp.md) | [Día 30 >>](./30_conclusions_sp.md)
+[<< Día 28](../28_Day_API/28_API.md) | [Día 30 >>](../30_Day_Conclusions/30_conclusions.md)

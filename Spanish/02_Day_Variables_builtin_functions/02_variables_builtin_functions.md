@@ -14,9 +14,9 @@
 
 </div>
 
-[<< Día 1](./readme_sp.md) | [Día 3 >>](./03_operators_sp.md)
+[<< Día 1](../readme.md) | [Día 3 >>](../03_Day_Operators/03_operators.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 _Lectura aproximada: 12 min_
 
@@ -37,21 +37,21 @@ _Lectura aproximada: 12 min_
 
 Python proporciona muchas funciones integradas. Las funciones integradas están disponibles a nivel global, lo que significa que puede usarlas sin importar o configurar nada. A continuación se muestran algunas de las funciones integradas más comunes de Python: _print()_, _len()_, _type()_, _int()_, _float()_, _str()_, _input()_, _list()_, _dict()_, _min()_, _max()_, _sum()_, _sorted()_, _open()_, _file()_, _help()_, _dir()_. En la tabla siguiente verá la lista completa de funciones integradas obtenida de la [documentación de Python](https://docs.python.org/3.9/library/functions.html).
 
-![Built-in Functions](../images/builtin-functions.png)
+![Built-in Functions](../../images/builtin-functions.png)
 
 Abramos el intérprete interactivo de Python y comencemos a usar algunas de las funciones integradas más comunes.
 
-![Built-in functions](../images/builtin-functions_practice.png)
+![Built-in functions](../../images/builtin-functions_practice.png)
 
 Practique más usando diferentes funciones integradas
 
-![Help and Dir Built in Functions](../images/help_and_dir_builtin.png)
+![Help and Dir Built in Functions](../../images/help_and_dir_builtin.png)
 
 Como se muestra arriba, Python tiene palabras reservadas. No podemos usar palabras reservadas para declarar variables o funciones. Presentaremos las variables en la sección siguiente.
 
 Confío en que ahora esté familiarizado con las funciones integradas. Practiquemos más con ellas antes de continuar a la siguiente sección.
 
-![Min Max Sum](../images/builtin-functional-final.png)
+![Min Max Sum](../../images/builtin-functional-final.png)
 
 ## Variables
 
@@ -304,4 +304,4 @@ Diferentes tipos numéricos en Python
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 1](./readme_sp.md) | [Día 3 >>](./03_operators_sp.md)
+[<< Día 1](../readme.md) | [Día 3 >>](../03_Day_Operators/03_operators.md)

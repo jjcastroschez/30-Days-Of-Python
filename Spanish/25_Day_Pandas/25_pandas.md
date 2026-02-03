@@ -1,6 +1,24 @@
-# 30 días de desafío de programación en Python: Día 25 - Pandas
+<div align="center">
+  <h1> 30 Días de Python: Día 25 - Pandas </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 25](#-día-25)
+  <sub>Autor:
+  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <small>Segunda edición: julio de 2021</small>
+  </sub>
+
+</div>
+
+[<< Día 24](../24_Day_Statistics/24_statistics.md) | [Día 26 >>](../26_Day_Python_web/26_python_web.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 25](#-día-25)
   - [Pandas](#pandas)
   - [InstalarPandas](#instalarpandas)
   - [ImportarPandas](#importarpandas)
@@ -22,7 +40,7 @@
     - [Formatear columnas del DataFrame](#formatear-columnas-del-dataframe)
   - [Comprobar tipos de datos de columnas](#comprobar-tipos-de-datos-de-columnas)
     - [Indexación booleana](#indexación-booleana)
-  - [Ejercicios: Día 25](#ejercicios-día-25)
+  - [💻 Ejercicios: Día 25](#ejercicios-día-25)
   
 # 📘 Día 25
 
@@ -62,25 +80,25 @@ Veamos un ejemplo de una serie:
 
 Serie de Pandas de nombres
 
-![pandas series](../images/pandas-series-1.png) 
+![pandas series](../../images/pandas-series-1.png) 
 
 Serie de países
 
-![pandas series](../images/pandas-series-2.png) 
+![pandas series](../../images/pandas-series-2.png) 
 
 Serie de ciudades
 
-![pandas series](../images/pandas-series-3.png)
+![pandas series](../../images/pandas-series-3.png)
 
 Como puedes ver, una serie de Pandas es simplemente una columna de datos. Si queremos tener varias columnas, usamos un DataFrame. El siguiente ejemplo muestra un DataFrame de Pandas.
 
 Veamos un ejemplo de un DataFrame de Pandas:
 
-![Pandas data frame](../images/pandas-dataframe-1.png)
+![Pandas data frame](../../images/pandas-dataframe-1.png)
 
 Un DataFrame es una colección de filas y columnas. Mira la tabla a continuación; tiene más columnas que el ejemplo anterior:
 
-![Pandas data frame](../images/pandas-dataframe-2.png)
+![Pandas data frame](../../images/pandas-dataframe-2.png)
 
 A continuación, veremos cómo importar Pandas y cómo crear Series y DataFrames con Pandas.
 
@@ -533,4 +551,4 @@ print(df[(df['age'] > 20) & (df['empleado'] == True)])
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 24](./24_statistics_sp.md) | [Día 26 >>](./26_python_web_sp.md)
+[<< Día 24](../24_Day_Statistics/24_statistics.md) | [Día 26 >>](../26_Day_Python_web/26_python_web.md)

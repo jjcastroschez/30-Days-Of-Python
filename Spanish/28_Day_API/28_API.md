@@ -1,6 +1,25 @@
-# Reto de 30 días de Python: Día 28 - API
+<div align="center">
+  <h1> 30 Días de Python: Día 28 - API </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 28](#-día-28)
+<sub>Autor:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small>Segunda edición: julio de 2021</small>
+</sub>
+
+</div>
+</div>
+
+[<< Día 27](../27_Day_Python_with_mongodb/27_python_with_mongodb.md) | [Día 29 >>](../29_Day_Building_API/29_building_API.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 28](#-día-28)
 - [Interfaz de Programación de Aplicaciones (API)](#interfaz-de-programación-de-aplicaciones-api)
   - [API](#api)
   - [Construir una API](#construir-una-api)
@@ -52,7 +71,7 @@ El navegador actúa como cliente HTTP porque envía solicitudes al servidor HTTP
 
 HTTP utiliza un modelo cliente-servidor. El cliente HTTP abre una conexión y envía un mensaje de solicitud al servidor HTTP; el servidor HTTP devuelve un mensaje de respuesta, es decir, el recurso solicitado. Cuando el ciclo solicitud-respuesta termina, el servidor cierra la conexión.
 
-![Ciclo de solicitud-respuesta HTTP](../images/http_request_response_cycle.png)
+![Ciclo de solicitud-respuesta HTTP](../../images/http_request_response_cycle.png)
 
 Los formatos de los mensajes de solicitud y respuesta son similares. Ambos mensajes contienen:
 
@@ -63,7 +82,7 @@ Los formatos de los mensajes de solicitud y respuesta son similares. Ambos mensa
 
 Navega por este sitio para ver un ejemplo de mensaje de solicitud y respuesta: https://thirtydaysofpython-v1-final.herokuapp.com/. Este sitio está desplegado en un dyno gratuito de Heroku y puede no estar disponible en algunos meses debido al alto tráfico. Apoyar este proyecto ayuda a mantener el servidor activo.
 
-![Cabeceras de solicitud y respuesta](../images/request_response_header.png)
+![Cabeceras de solicitud y respuesta](../../images/request_response_header.png)
 
 ## Línea inicial de solicitud (línea de estado)
 
@@ -137,4 +156,4 @@ GET, POST, PUT y DELETE son los métodos HTTP que usaremos para implementar la A
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 27](./27_python_with_mongodb_sp.md) | [Día 29 >>](./29_building_API_sp.md)
+[<< Día 27](../27_Day_Python_with_mongodb/27_python_with_mongodb.md) | [Día 29 >>](../29_Day_Building_API/29_building_API.md)

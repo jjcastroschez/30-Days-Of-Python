@@ -1,6 +1,22 @@
-# 30 Días de Python: Día 19 - Manejo de archivos
+<div align="center">
+  <h1> 30 Días de Python: Día 19 - Manejo de archivos </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
+<sub>Autor:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small>Segunda edición: julio de 2021</small>
+</sub>
+</div>
 
-- [Día 19](#-día-19)
+[<< Día 18](../18_Day_Regular_expressions/18_regular_expressions.md) | [Día 20 >>](../20_Day_Python_package_manager/20_python_package_manager.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 19](#-día-19)
   - [Manejo de archivos](#manejo-de-archivos)
     - [Abrir un archivo para lectura](#abrir-un-archivo-para-lectura)
     - [Abrir un archivo para escritura y actualización](#abrir-un-archivo-para-escritura-y-actualización)
@@ -523,4 +539,4 @@ Python
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 18](./18_regular_expressions_sp.md) | [Día 20 >>](./20_python_package_manager_sp.md)
+[<< Día 18](../18_Regular_expressions/18_regular_expressions.md) | [Día 20 >>](../20_Day_Python_package_manager/20_python_package_manager.md)

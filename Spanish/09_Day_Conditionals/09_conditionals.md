@@ -14,9 +14,9 @@
 
 </div>
 
-[<< Día 8](./08_dictionaries_sp.md) | [Día 10 >>](./10_loops_sp.md)
+[<< Día 8](../08_Day_Dictionaries/08_dictionaries.md) | [Día 10 >>](../10_Day_Loops/10_loops.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 Día 9](#-día-9)
   - [Sentencias condicionales](#sentencias-condicionales)
@@ -280,4 +280,4 @@ print('Asabeneh Yetayeh vive en Finlandia. Está casado.')
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 8](./08_dictionaries_sp.md) | [Día 10 >>](./10_loops_sp.md)
+[<< Día 8](../08_Day_Dictionaries/08_dictionaries.md) | [Día 10 >>](../10_Day_Loops/10_loops.md)

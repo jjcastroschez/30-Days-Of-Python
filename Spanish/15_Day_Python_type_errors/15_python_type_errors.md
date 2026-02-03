@@ -1,6 +1,24 @@
-# Desafío de programación Python: Día 15 - Errores (excepciones) en Python
+<div align="center">
+  <h1> 30 Días de Python: Día 15 - Errores de tipo </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 15](#día-15)
+  <sub>Autor:
+  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <small> Segunda edición: julio de 2021</small>
+  </sub>
+
+</div>
+
+[<< Día 14](../14_Day_Higher_order_functions/14_higher_order_functions.md) | [Día 16 >>](../16_Day_Python_date_time/16_python_datetime.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 15](#día-15)
   - [Tipos de error en Python](#tipos-de-error-en-python)
     - [SyntaxError (Error de sintaxis)](#syntaxerror-error-de-sintaxis)
     - [NameError (Error de nombre)](#nameerror-error-de-nombre)
@@ -340,4 +358,4 @@ Hemos revisado varios tipos de errores en Python; para más información, consul
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 14](./14_higher_order_functions_sp.md) | [Día 16 >>](./16_python_datetime_sp.md)
+[<< Día 14](../14_Day_Higher_order_functions/14_higher_order_functions.md) | [Día 16 >>](../16_Day_Python_datetime/16_python_datetime.md)

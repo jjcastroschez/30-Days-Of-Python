@@ -1,6 +1,25 @@
-# 30 Días de Python: Día 16 - datetime en Python
+<div align="center">
+  <h1> 30 Días de Python: Día 16 - Fechas y horas en Python </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 16](#-día-16)
+  <sub>Autor:
+  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <small> Segunda edición: julio de 2021</small>
+  </sub>
+
+</div>
+
+[<< Día 15](../15_Day_Python_type_errors/15_python_type_errors.md) | [Día 17 >>](../17_Day_Exception_handling/17_exception_handling.md)
+
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 16](#-día-16)
   - [Python *datetime*](#python-datetime)
     - [Obtener información de *datetime*](#obtener-información-de-datetime)
     - [Formatear fecha con *strftime*](#formatear-fecha-con-strftime)
@@ -86,7 +105,7 @@ Formato dos: 05/12/2019, 01:05:01
 
 A continuación se muestran los símbolos de _strftime_ usados para formatear tiempos, como se ve en la imagen de referencia.
 
-![strftime](../images/strftime.png)
+![strftime](../../images/strftime.png)
 
 ### Convertir cadena a fecha con *strptime*
 Aquí hay una [guía](https://www.programiz.com/python-programming/datetime/strptimet) que ayuda a entender los formatos.
@@ -189,4 +208,4 @@ t3 = 86 days, 22:56:50
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 15](./15_python_type_errors_sp.md) | [Día 17 >>](./17_exception_handling_sp.md)
+[<< Día 15](../15_Day_Python_type_errors/15_python_type_errors.md) | [Día 17 >>](./17_Day_Exception_handling/17_exception_handling.md)

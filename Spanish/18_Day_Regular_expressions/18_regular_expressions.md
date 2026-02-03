@@ -1,6 +1,24 @@
-# 30 Días de Python: Día 18 - Expresiones regulares
+<div align="center">
+  <h1> 30 Days Of Python: Day 18 - Regular Expressions </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 18](#-día-18)
+  <sub>Autor:
+  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <small> Primera Edición: Nov 22 - Dic 22, 2019</small>
+  </sub>
+</div>
+
+
+[<< Día 17](../17_Day_Exception_handling/17_exception_handling.md) | [Día 19>>](../19_Day_File_handling/19_file_handling.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 18](#-día-18)
   - [Expresiones regulares](#expresiones-regulares)
     - [Módulo *re*](#módulo-re)
     - [Métodos en el módulo *re*](#métodos-en-el-módulo-re)
@@ -406,4 +424,4 @@ alex@yahoo
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 17](./17_exception_handling_sp.md) | [Día 19 >>](./19_file_handling_sp.md)
+[<< Día 17](../17_Day_Exception_handling/17_exception_handling.md) | [Día 19 >>](../19_Day_File_handling/19_file_handling.md)
