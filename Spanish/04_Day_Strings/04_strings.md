@@ -14,9 +14,9 @@
 
 </div>
 
-[<< Día 3](./03_operators_sp.md) | [Día 5 >>](./05_lists_sp.md)
+[<< Día 3](../03_Day_operators/03_operators.md) | [Día 5 >>](../05_Day_lists/05_lists.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 _Lectura aproximada: 20 min_
 
@@ -232,7 +232,7 @@ print(f) # n
 
 En programación la indexación comienza en cero. Por tanto, la primera letra está en el índice 0 y la última en la longitud de la cadena menos uno.
 
-![String index](../images/string_index.png)
+![String index](../../images/string_index.png)
 
 ```py
 language = 'Python'
@@ -603,6 +603,4 @@ area = 3.14 * radius ** 2
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 3](./03_operators_sp.md) | [Día 5 >>](./05_lists_sp.md)
-
-
+[<< Día 3](../03_Day_Operators/03_operators.md) | [Día 5 >>](../05_Day_Lists/05_lists.md)

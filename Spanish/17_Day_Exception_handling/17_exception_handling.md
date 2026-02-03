@@ -1,6 +1,23 @@
-# 30 Días de Python: Día 17 - Manejo de excepciones
+<div align="center">
+  <h1> 30 Días de Python: Día 17 - Manejo de excepciones </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 17](#-día-17)
+  <sub>Autor:
+  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <small> Segunda edición: julio de 2021</small>
+  </sub>
+</div>
+
+[<< Día 16](../16_Day_Python_date_time/16_python_datetime.md) | [Día 18 >>](../18_Day_Regular_expressions/18_regular_expressions.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 17](#-día-17)
   - [Manejo de excepciones](#manejo-de-excepciones)
   - [Empacar y desempacar parámetros en Python](#empacar-y-desempacar-parámetros-en-python)
     - [Desempaquetado](#desempaquetado)
@@ -22,7 +39,7 @@ Python utiliza _try_ y _except_ para manejar errores de forma elegante. Salir de
 
 En la sección anterior hemos cubierto los distintos tipos de errores en Python. Si usamos _try_ y _except_ correctamente, podemos impedir que esos errores hagan que el programa falle.
 
-![Try and Except](../images/try_except.png)
+![Try and Except](../../images/try_except.png)
 
 ```py
 try:
@@ -281,4 +298,4 @@ print(fruits_and_veges)
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 16](./16_python_datetime_sp.md) | [Día 18 >>](./18_regular_expressions_sp.md)
+[<< Día 16](../16_Day_Python_datetime/16_python_datetime.md) | [Día 18 >>](../18_Day_Regular_expressions/18_regular_expressions.md)

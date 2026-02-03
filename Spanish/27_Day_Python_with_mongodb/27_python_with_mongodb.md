@@ -1,6 +1,24 @@
-# Reto de 30 días de Python: Día 27 - Python y MongoDB
+<div align="center">
+  <h1> 30 Días de Python: Día 27 - Python y MongoDB </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 27](#-día-27)
+<sub>Autor:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small>Segunda edición: julio de 2021</small>
+</sub>
+
+</div>
+
+[<< Día 26](../26_Day_Python_web/26_python_web.md) | [Día 28 >>](../28_Day_API/28_API.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 27](#-día-27)
 - [Python y MongoDB](#python-y-mongodb)
   - [MongoDB](#mongodb)
     - [Comparación entre SQL y NoSQL](#comparación-entre-sql-y-nosql)
@@ -30,43 +48,43 @@ MongoDB es una base de datos NoSQL. MongoDB almacena datos en documentos tipo JS
 
 ### Comparación entre SQL y NoSQL
 
-![SQL vs NoSQL](../images/mongoDB/sql-vs-nosql.png)
+![SQL vs NoSQL](../../images/mongoDB/sql-vs-nosql.png)
 
 En esta sección nos centraremos en la base de datos NoSQL MongoDB. Regístrate en [MongoDB](https://www.mongodb.com/) haciendo clic en registrarse y luego en la página siguiente confirma el registro.
 
-![Página de registro de MongoDB](../images/mongoDB/mongodb-signup-page.png)
+![Página de registro de MongoDB](../../images/mongoDB/mongodb-signup-page.png)
 
 Rellena el formulario y haz clic en continuar..
 
-![Registro MongoDB](../images/mongoDB/mongodb-register.png)
+![Registro MongoDB](../../images/mongoDB/mongodb-register.png)
 
 Elige el plan gratuito
 
-![Plan gratuito de MongoDB](../images/mongoDB/mongodb-free.png)
+![Plan gratuito de MongoDB](../../images/mongoDB/mongodb-free.png)
 
 Elige la región gratuita más cercana y ponle un nombre a tu clúster.
 
-![Nombre del clúster de MongoDB](../images/mongoDB/mongodb-cluster-name.png)
+![Nombre del clúster de MongoDB](../../images/mongoDB/mongodb-cluster-name.png)
 
 Ahora se ha creado un sandbox gratuito
 
-![Sandbox de MongoDB](../images/mongoDB/mongodb-sandbox.png)
+![Sandbox de MongoDB](../../images/mongoDB/mongodb-sandbox.png)
 
 Permitir el acceso desde todos los hosts locales
 
-![Permitir acceso IP en MongoDB](../images/mongoDB/mongodb-allow-ip-access.png)
+![Permitir acceso IP en MongoDB](../../images/mongoDB/mongodb-allow-ip-access.png)
 
 Agregar usuario y contraseña
 
-![Agregar usuario en MongoDB](../images/mongoDB/mongodb-add-user.png)
+![Agregar usuario en MongoDB](../../images/mongoDB/mongodb-add-user.png)
 
 Crear enlace URI de MongoDB
 
-![Crear URI de MongoDB](../images/mongoDB/mongodb-create-uri.png)
+![Crear URI de MongoDB](../../images/mongoDB/mongodb-create-uri.png)
 
 Selecciona el driver para Python 3.6 o superior
 
-![Driver Python para MongoDB](../images/mongoDB/mongodb-python-driver.png)
+![Driver Python para MongoDB](../../images/mongoDB/mongodb-python-driver.png)
 
 ### Obtener la cadena de conexión (URI de MongoDB)
 
@@ -160,7 +178,7 @@ Revisa tu clúster MongoDB y verás la base de datos y la colección, con un doc
 
 Si ves lo anterior en tu clúster, significa que has creado con éxito una base de datos y una colección.
 
-![Crear base de datos y colección](../images/mongoDB/mongodb-creating_database.png)
+![Crear base de datos y colección](../../images/mongoDB/mongodb-creating_database.png)
 
 Si ves la imagen anterior, el documento fue creado con un ID largo como clave primaria. Cada vez que incrustamos un documento, MongoDB le asigna un ID único.
 
@@ -627,4 +645,4 @@ Ahora hemos eliminado la colección students de la base de datos.
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 26](./26_python_web_sp.md) | [Día 28 >>](./28_API_sp.md)
+[<< Día 26](../26_Day_Python_web/26_python_web.md) | [Día 28 >>](../28_Day_API/28_API.md)

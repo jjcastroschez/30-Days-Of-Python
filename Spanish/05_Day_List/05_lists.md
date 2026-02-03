@@ -14,9 +14,9 @@
 
 </div>
 
-[<< Día 4](./04_strings_sp.md) | [Día 6 >>](./06_tuples_sp.md)
+[<< Día 4](../04_Day_Strings/04_strings.md) | [Día 6 >>](../06_Day_tuples/06_tuples.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 - [Día 5](#día-5)
   - [Listas](#listas)
@@ -131,7 +131,7 @@ Number of countries: 5
 
 Usamos índices para acceder a los elementos de una lista. Los índices comienzan en 0. La imagen muestra claramente dónde empiezan los índices.
 
-![List index](../images/list_index.png)
+![List index](../../images/list_index.png)
 
 ```py
 fruits = ['banana', 'orange', 'mango', 'lemon']
@@ -150,7 +150,7 @@ last_fruit = fruits[last_index]
 
 Los índices negativos cuentan desde el final; `-1` es el último elemento, `-2` el penúltimo.
 
-![List negative indexing](../images/list_negative_indexing.png)
+![List negative indexing](../../images/list_negative_indexing.png)
 
 ```py
 fruits = ['banana', 'orange', 'mango', 'lemon']
@@ -593,4 +593,4 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 4](./04_strings_sp.md) | [Día 6 >>](./06_tuples_sp.md)
+[<< Día 4](../04_Day_Strings/04_strings.md) | [Día 6 >>](../06_Day_Tuples/06_tuples.md)

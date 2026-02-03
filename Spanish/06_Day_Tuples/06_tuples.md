@@ -14,9 +14,9 @@
 
 </div>
 
-[<< Día 5](./05_lists_sp.md) | [Día 7 >>](./07_sets_sp.md)
+[<< Día 5](../05_Day_Lists/05_lists.md) | [Día 7 >>](../07_Day_Sets/07_sets.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 - [Día 6](#día-6)
   - [Tuplas](#tuplas)
@@ -80,7 +80,7 @@ len(tpl)
 
 - Índices positivos
   Al igual que con las listas, usamos índices positivos o negativos para acceder a los elementos de una tupla.
-  ![Accessing tuple items](../images/tuples_index.png)
+  ![Accessing tuple items](../../images/tuples_index.png)
 
   ```py
   # Sintaxis
@@ -99,7 +99,7 @@ len(tpl)
 
 - Índices negativos
   Los índices negativos cuentan desde el final: -1 es el último elemento, -2 el penúltimo, y así sucesivamente.
-  ![Tuple Negative indexing](../images/tuple_negative_indexing.png)
+  ![Tuple Negative indexing](../../images/tuple_negative_indexing.png)
 
   ```py
   # Sintaxis
@@ -255,4 +255,4 @@ del fruits
   ```
 
 
-[<< Día 5](./05_lists_sp.md) | [Día 7 >>](./07_sets_sp.md)
+[<< Día 5](../05_Day_Lists/05_lists.md) | [Día 7 >>](../07_Day_Sets/07_sets.md)

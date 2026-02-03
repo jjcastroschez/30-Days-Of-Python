@@ -14,9 +14,9 @@
 
 </div>
 
-[<< Día 9](./09_conditionals_sp.md) | [Día 11 >>](./11_functions_sp.md)
+[<< Día 9](../09_Day_Conditionals/09_conditionals.md) | [Día 11 >>](../11_Day_Functions/11_functions.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 
 - [📘 Día 10](#-día-10)
@@ -448,4 +448,4 @@ for number in range(6):
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 9](./09_conditionals_sp.md) | [Día 11 >>](./11_functions_sp.md)
+[<< Día 9](../09_Day_Conditionals/09_conditionals.md) | [Día 11 >>](../11_Day_Functions/11_functions.md)

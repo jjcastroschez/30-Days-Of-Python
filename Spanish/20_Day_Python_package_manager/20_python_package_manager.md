@@ -1,6 +1,23 @@
-# 30 Días de Python: Día 20 - PIP
+<div align="center">
+  <h1> 30 Días de Python: Día 20 - PIP </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 20](#-día-20)
+<sub>Autor:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small>Segunda edición: julio de 2021</small>
+</sub>
+</div>
+
+[<< Día 19](../19_Day_File_handling/19_file_handling.md) | [Día 21 >>](../21_Day_Classes_and_objects/21_classes_and_objects.md)
+
+![30DaysOfPython](../../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 20](#-día-20)
   - [Python PIP - Gestor de paquetes de Python](#python-pip---gestor-de-paquetes-de-python)
     - [¿Qué es PIP?](#¿qué-es-pip)
     - [Instalar PIP](#instalar-pip)
@@ -12,7 +29,7 @@
     - [Leer datos desde una URL](#leer-datos-desde-una-url)
     - [Crear paquetes](#crear-paquetes)
     - [Más información sobre paquetes](#más-información-sobre-paquetes)
-  - [Ejercicios: Día 20](#ejercicios-día-20)
+  - [💻 Ejercicios: Día 20](#ejercicios-día-20)
 
 # 📘 Día 20
 
@@ -305,4 +322,4 @@ print(greet.greet_person('Juan', 'Pérez'))
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 19](./19_file_handling_sp.md) | [Día 21 >>](./21_classes_and_objects_sp.md)
+[<< Día 19](../19_Day_File_handling/19_file_handling.md) | [Día 21 >>](../21_Day_classes_and_objects/21_classes_and_objects.md)

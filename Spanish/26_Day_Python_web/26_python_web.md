@@ -1,6 +1,24 @@
-# 30 días de desafío de programación en Python: Día 26 - Programación web con Python
+<div align="center">
+  <h1> 30 Días de Python: Día 26 - Programación web con Python </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 26](#-día-26)
+  <sub>Autor:
+  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <small>Segunda edición: julio de 2021</small>
+  </sub>
+</div>
+</div>
+
+[<< Día 25 ](../25_Day_Pandas/25_pandas.md) | [Día 27 >>](../27_Day_Python_with_mongodb/27_python_with_mongodb.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 26](#-día-26)
   - [Programación web con Python](#programación-web-con-python)
     - [Flask](#flask)
       - [Estructura de carpetas](#estructura-de-carpetas)
@@ -16,7 +34,7 @@
       - [Iniciar sesión en Heroku](#iniciar-sesión-en-heroku)
       - [Crear requirements y Procfile](#crear-requirements-y-procfile)
       - [Enviar el proyecto a Heroku](#enviar-el-proyecto-a-heroku)
-  - [Ejercicios: Día 26](#ejercicios-día-26)
+  - [💻 Ejercicios: Día 26](#ejercicios-día-26)
 
 # 📘 Día 26
 
@@ -813,4 +831,4 @@ Sin más preámbulos, realicemos algunos ejercicios para reforzar lo aprendido.
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 25](./25_pandas_sp.md) | [>> Día 27](./27_python_with_mongodb_sp.md)
+[<< Día 25](../25_Day_Pandas/25_pandas.md) | [>> Día 27](../27_Day_Python_with_mongodb/27_python_with_mongodb.md)

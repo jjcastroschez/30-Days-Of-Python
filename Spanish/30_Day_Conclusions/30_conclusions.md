@@ -1,6 +1,25 @@
-# Reto de 30 días de Python: Día 30 - Conclusiones
+<div align="center">
 
-- [Día 30](#día-30)
+  <h1> 30 Días de Python: Día 30- Conclusiones</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
+
+
+<sub>Autor:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small>Segunda edición: julio de 2021</small>
+</sub>
+
+</div>
+
+[<< Día 29](../29_Day_Building_API/29_building_API.md)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 30](#día-30)
   - [Resumen](#resumen)
   - [Testimonios](#testimonios)
 
@@ -19,4 +38,4 @@ http://thirtydayofpython-api.herokuapp.com/feedback
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 29](./29_building_API_sp.md)
+[<< Día 29](../29_Day_Building_API/29_building_API.md)

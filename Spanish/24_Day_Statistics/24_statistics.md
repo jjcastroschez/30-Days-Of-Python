@@ -1,6 +1,23 @@
-# 30 Días de Python: Día 24 - Estadística
+<div align="center">
+  <h1> 30 Días de Python: Día 24 - Estadística</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 24](#-día-24)
+<sub>Autor:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small>Segunda edición: julio de 2021</small>
+</sub>
+</div>
+
+[<< Día 23](../23_Day_Virtual_environment/23_virtual_environment.md) | [Día 25 >>](../25_Day_Pandas/25_pandas.md)
+
+![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 24](#-día-24)
   - [Análisis estadístico con Python](#análisis-estadístico-con-python)
   - [Estadística](#estadística)
   - [Datos](#datos)
@@ -561,4 +578,4 @@ print('Media:', numpy_array_from_list.mean())
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 23](./23_virtual_environment_sp.md) | [Día 25 >>](./25_pandas_sp.md)
+[<< Día 23](../23_Day_Virtual_environment/23_virtual_environment.md) | [Día 25 >>](../25_Day_Pandas/25_pandas.md)

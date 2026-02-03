@@ -1,6 +1,23 @@
-# 30 Días de Python: Día 23 - Entornos virtuales
+<div align="center">
+  <h1> 0 Días de Python: Día 23 - Entornos virtuales </h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 
-- [Día 23](#-día-23)
+<sub>Autor:
+<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<small> Segunda edición: julio de 2021</small>
+</sub>
+</div>
+
+[<< Día 22](../22_Day_Web_scraping/22_web_scraping.md) | [Día 24 >>](../24_Day_Statistics/24_statistics.md)
+
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
+
+- [📘 Día 23](#-día-23)
   - [Configurar un entorno virtual](#configurar-un-entorno-virtual)
   - [💻 Ejercicios: Día 23](#-ejercicios-día-23)
 
@@ -93,4 +110,4 @@ Los módulos necesarios para trabajar con Flask ya están instalados en el entor
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 22](./22_web_scraping_sp.md) | [Día 24 >>](./24_statistics_sp.md)
+[<< Día 22](../22_Day_Web_scraping/22_web_scraping.md) | [Día 24 >>](../24_Statistics/24_statistics.md)

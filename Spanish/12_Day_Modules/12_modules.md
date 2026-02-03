@@ -14,9 +14,9 @@
 
 </div>
 
-[<< Día 11](./11_functions_sp.md) | [Día 13 >>](./13_list_comprehension_sp.md)
+[<< Día 11](../11_Day_functions/11_functions.md) | [Día 13 >>](../13_Day_List_comprehension/13_list_comprehension.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../../images/30DaysOfPython_banner3@2x.png)
 
 - [📘 Día 12](#-día-12)
   - [Módulos](#módulos)
@@ -299,4 +299,4 @@ print(rgb_color_gen())
 
 🎉 ¡Felicidades! 🎉
 
-[<< Día 11](./11_functions_sp.md) | [Día 13 >>](./13_list_comprehension_sp.md)
+[<< Día 11](../11_Day_functions/11_functions.md) | [Día 13 >>](../13_Day_List_comprehension/13_list_comprehension.md)
