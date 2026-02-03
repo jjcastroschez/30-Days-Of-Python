@@ -16,22 +16,22 @@
 |   12   | [Módulos](./12_Day_Modules/12_modules.md)|
 |   13   | [Comprensión de listas](./13_Day_List_comprehension/13_list_comprehension.md)|
 |   14   | [Funciones de orden superior](./14_Day_Higher_order_functions/14_higher_order_functions.md)|
-|   15   |             [Errores de tipo](./15_python_type_errors_sp.md)             |
-|   16   |            [Fechas y horas en Python](./16_python_datetime_sp.md)            |
-|   17   |             [Manejo de excepciones](./17_exception_handling_sp.md)             |
-|   18   |           [Expresiones regulares](./18_regular_expressions_sp.md)           |
-|   19   |                  [Manejo de archivos](./19_file_handling_sp.md)                  |
-|   20   |         [Gestor de paquetes](./20_python_package_manager_sp.md)         |
-|   21   |            [Clases y objetos](./21_classes_and_objects_sp.md)            |
-|   22   |                   [Web scraping](./22_web_scraping_sp.md)                   |
-|   23   |            [Entornos virtuales](./23_virtual_environment_sp.md)            |
-|   24   |                       [Estadística](./24_statistics_sp.md)                       |
-|   25   |                          [Pandas](./25_pandas_sp.md)                          |
-|   26   |                   [Python en la web](./26_python_web_sp.md)                    |
-|   27   |       [Python y MongoDB](./27_python_with_mongodb_sp.md)        |
-|   28   |                              [API](./28_API_sp.md)                               |
-|   29   |                   [Construir API](./29_building_API_sp.md)                   |
-|   30   |                      [Conclusiones](./30_conclusions_sp.md)                      |
+|   15   |             [Errores de tipo](./15_python_type_errors/15_python_type_errors.md)             |
+|   16   |            [Fechas y horas en Python](./16_python_datetime/16_python_datetime.md)            |
+|   17   |             [Manejo de excepciones](./17_exception_handling/17_exception_handling.md)             |
+|   18   |           [Expresiones regulares](./18_regular_expressions/18_regular_expressions.md)           |
+|   19   |                  [Manejo de archivos](./19_file_handling/19_file_handling.md)                  |
+|   20   |         [Gestor de paquetes](./20_python_package_manager/20_python_package_manager.md)         |
+|   21   |            [Clases y objetos](./21_classes_and_objects/21_classes_and_objects.md)            |
+|   22   |                   [Web scraping](./22_web_scraping/22_web_scraping.md)                   |
+|   23   |            [Entornos virtuales](./23_virtual_environment/23_virtual_environment.md)            |
+|   24   |                       [Estadística](./24_statistics/24_statistics.md)                       |
+|   25   |                          [Pandas](./25_pandas/25_pandas.md)                          |
+|   26   |                   [Python en la web](./26_python_web/26_python_web.md)                    |
+|   27   |       [Python y MongoDB](./27_python_with_mongodb/27_python_with_mongodb.md)        |
+|   28   |                              [API](./28_API/28_API.md)                               |
+|   29   |                   [Construir API](./29_building_API/29_building_API.md)                   |
+|   30   |                      [Conclusiones](./30_conclusions/30_conclusions.md)                      |
 
 🧡🧡🧡 Feliz codificación 🧡🧡🧡
 
